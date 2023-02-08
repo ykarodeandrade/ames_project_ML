@@ -1,2 +1,2 @@
-# ames_project_ML
+# Ames project
 Repositório machine learning
