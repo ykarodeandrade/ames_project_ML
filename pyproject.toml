@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ames"
+version = "0.1.0"
+description = ""
+authors = ["ykarodeandrade <ykarosa@al.insper.edu.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyterlab = "^3.6.1"
+matplotlib = "^3.6.3"
+pandas = "^1.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
